@@ -4,8 +4,17 @@
     display: block;
     justify-content: center;
    margin: 0 auto;
+   padding: 1%;
 }
 img {
     display: block;
     justify-content: center;
+}
+/* header */
+header {
+    padding: .5%;
+    text-align: center;
+    background-color: #cddbe7;
+    color: #1b2c3a;
+    font-size: 30px;
 }
