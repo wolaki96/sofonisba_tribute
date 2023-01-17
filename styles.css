@@ -19,6 +19,9 @@ img {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
 }
+#img-div {
+    background-color: #172531;
+}
 /* header */
 header {
     padding: .3%;
@@ -27,7 +30,20 @@ header {
     color: #1b2c3a;
     font-size: 30px;
 }
+h2{
+    text-decoration: underline;
+}
 #tribute-info, li {
     text-align: center;
-    color:#cddbe7;
+    color:#172531;
+    font-size: 19px;
+    padding: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+footer {
+    background-color: #172531;
+    color: #cddbe7;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 3%; ;
 }
