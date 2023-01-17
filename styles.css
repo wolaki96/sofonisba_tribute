@@ -1,20 +1,33 @@
+main{
+    background-color: #6993b8;
+}
 #image {
     max-width: 100%;
     height: auto;
     display: block;
     justify-content: center;
    margin: 0 auto;
-   padding: 1%;
+   padding: .5%;
 }
 img {
     display: block;
     justify-content: center;
 }
+#img-caption {
+    color:#1b2c3a;
+    font-size: 14px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
 /* header */
 header {
-    padding: .5%;
+    padding: .3%;
     text-align: center;
     background-color: #cddbe7;
     color: #1b2c3a;
     font-size: 30px;
+}
+#tribute-info, li {
+    text-align: center;
+    color:#cddbe7;
 }
